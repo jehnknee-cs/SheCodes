@@ -31,6 +31,14 @@ li {
   list-style: none;
 }
 
+.col-6 {
+  margin-top: 10px;
+}
+
+.tempProperties {
+  margin-left: 50px;
+}
+
 .weather-app {
   border: 1px solid #ffffff;
   background: radial-gradient(
@@ -42,6 +50,13 @@ li {
   margin: 20px auto;
   border-radius: 10px;
   max-width: 600px;
+}
+
+img {
+  position: relative;
+  width: 60px;
+  margin: 10px;
+  bottom: 8px;
 }
 
 .temperature {
