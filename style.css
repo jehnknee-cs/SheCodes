@@ -52,13 +52,6 @@ li {
   max-width: 600px;
 }
 
-img {
-  position: relative;
-  width: 60px;
-  margin: 10px;
-  bottom: 8px;
-}
-
 .temperature {
   color: rgb(243, 154, 62);
   font-size: 64px;
