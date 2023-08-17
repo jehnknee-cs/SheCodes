@@ -46,7 +46,7 @@ li {
 
 .temperature {
   color: white;
-  font-size: 64px;
+  font-size: 60px;
   font-weight: 400;
   line-height: 1;
 }
@@ -62,7 +62,7 @@ li {
 }
 
 .tempProperties {
-  margin-left: 30px;
+  margin-left: 80px;
 }
 
 .weather-forecast {
@@ -79,6 +79,10 @@ li {
 .weather-forecast-temperatures {
   font-size: 13px;
   margin-left: 10px;
+}
+
+.weather-forecast-temperatures-min {
+  color: grey;
 }
 
 img {
